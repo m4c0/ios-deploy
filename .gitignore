@@ -4,3 +4,4 @@ ios-deploy
 ios-deploy.dSYM
 /.DS_Store
 *~
+*.sw?
